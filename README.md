@@ -15,6 +15,7 @@ The assigned project had three components, but I am only currently addressing th
 ## The Data
 This project uses the [Ames housing data recently made available on kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
+The original dataset contains 1385 properites from Ames, IA and there are 81 property features.
 
 ---
 
