@@ -1,6 +1,8 @@
 # Real Estate Predictor
 This project was assigned as part of the <a href="https://generalassemb.ly/education/data-science-immersive">Data Science Immersive</a> course at General Assembly.  
 
+Credit to <a href="https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset">Julien Cohen Solal</a> for some of the EDA techniques and other visualizations I used in this project.
+
 ## Business Case
 
 You work for a real estate company interested in using data science to determine the best properties to buy and re-sell. Specifically, your company would like to identify the characteristics of residential houses that estimate the sale price and the cost-effectiveness of doing renovations for resale.
@@ -14,13 +16,14 @@ The assigned project had three components, but I am only currently addressing th
 
 ## The Data
 This project uses the [Ames housing data recently made available on kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+A full description of the dataset can be found <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data">here</a> or in the data_description.txt file in this repo.
 
-The original dataset contains 1385 properites from Ames, IA and there are 81 property features.
+The original dataset contains 1460 properites from Ames, IA (of which 1385 are residential) and there are 80 property features.
 
 ---
 
-## The Process
-
+## Process Summary
+```
 Though the housing data for this project is very rich, it is not trivial to clean and prepare for modeling. Good EDA, cleaning, and feature engineering will be critical to the success of your models. Always remember to think critically about the data before modeling. The computer can't be the researcher for you!
 
 The first two parts of the project are regression problems. There are potentially hundreds of features and plenty of multicollinearity, so regularization is definitely recommended.
@@ -34,7 +37,7 @@ We will be looking for the following things:
 - Detailed EDA with justification for the steps. Visualize your data with pandas, matplotlib, or other plotting libraries. Explain the variables you choose for your models.
 - Detail your choice of regression and classification models for the task. Include Markdown explaining your justification, results, and interpretation of your models. Make sure your code is clean and clear.
 - Remember to frame your results according to your goals outlined in the project prompts.
-
+```
 ---
 
 ## The Results
