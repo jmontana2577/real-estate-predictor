@@ -1,5 +1,5 @@
 # Real Estate Predictor
-This project was assigned as part of the <a href="https://generalassemb.ly/education/data-science-immersive>Data Science Immersive</a> course at General Assembly.  
+This project was assigned as part of the <a href="https://generalassemb.ly/education/data-science-immersive">Data Science Immersive</a> course at General Assembly.  
 
 ## Business Case
 
