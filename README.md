@@ -57,6 +57,6 @@ We will be looking for the following things:
 
 ## Next Steps
 
-1. Split the data into training and test ses differently (randomly instead of based on year built), retrain the model and compare results.
+1. Split the data into training and test sets differently (randomly instead of based on year built), retrain the model and compare results.
 1. Explore the possibility of more specific and robust recommendations for which features to renovate and how much to spend for each.
 1. Revisit the classifiation aspect of this project (not currently addressed here) in which the goal is to identify abnormal sales. 
